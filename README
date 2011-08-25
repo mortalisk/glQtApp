@@ -1,0 +1,8 @@
+The QT OpenGl sample application
+
+Tired of using glut for your OpenGL tutorials? Want to use QT but can't figure out how to get it working. Here comes the sample application for using QGLWidget in a Qt project. It provides a skeleton wich you can then build upon or only use as inspiration.
+
+Comes complete with .pro file
+
+Please use as much as you like. I would appreciate if you mention my name or link to the project if you distribute it.
+
